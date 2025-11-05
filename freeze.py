@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("🧠 思考フリーズタイプのあなたへ")
 
 st.write("""

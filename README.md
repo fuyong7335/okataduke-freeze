@@ -1,2 +1,1 @@
-# okataduke-freeze
-おかたづけフリーズ
+
